@@ -5,7 +5,9 @@
 
 <br><br>
 
-## あ_Tєαᴍ нєαятℓєѕѕ_あ
+<div align="center">
+<img 
+src="https://i.imgur.com/ktBDIvY.jpeg"
 
 <img 
 src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
