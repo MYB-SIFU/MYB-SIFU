@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&pause=500&color=00F2FF&center=true&vCenter=true&width=800&height=120&lines=%E2%80%B9+%E2%96%93+WELCOME+TO+SIFU+PROFILE+%E2%96%93+%E2%80%BA;%E2%9A%9B+INITIALIZING+CYBERCORE...+;%E2%96%AC%E2%96%AC%E2%96%AC+ACCESS+GRANTED+%E2%96%AC%E2%96%AC%E2%96%AC" alt="Xenos Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&pause=450&color=FFFF20&center=true&vCenter=true&width=800&height=120&lines=%E2%96%93+WELCOME+TO+MY+PROFILE+%E2%96%93" alt="Xenos Header" />
 
 <br><br>
 
@@ -10,7 +10,7 @@
 src="https://i.imgur.com/ktBDIvY.jpeg"
 
 <img 
-src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
+src="https://avatars.githubusercontent.com/u/244322298?s=400&v=4" width="500" style="border-radius: 20px; border: 2px solid #00f2ff; box-shadow: 0 0 15px #00f2ff, 0 0 30px #7000ff;"/>
 
  <p align="center">
   <a href="https://m.youtube.com/@maybes1fu" target="_blank">
@@ -19,7 +19,7 @@ src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" st
 </p>
 
  <p align="center">
-  <a href="https://m.me/j/AbZyEjKlW84rxu2t/?send_source=gc%3Acopy_invite_link_c" target="_blank">
+  <a href="https://m.me/j/Aba7EpkiiVc2HpZt/?send_source=gc%3Acopy_invite_link_c" target="_blank">
     <img src="https://raw.githubusercontent.com/Ewr-Sifu/SIFU-ANIMATE-MD/refs/heads/main/Sifu/mss.svg" width="" alt="massanger channel Link"/>
   </a>
 </p>
@@ -46,7 +46,7 @@ src="https://avatars.githubusercontent.com/u/244322298?s=506&v=4" width="300" st
         <kbd>📍 𝕹𝖔𝖉𝖊:</kbd> <code>Bangladesh (Khulna)</code>
       </p>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=js,py,nodejs,react,html,css,git,mongodb,vscode&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=js,py,nodejs,react,html,css,go,ts,rust&theme=dark" />
       </p>
     </td>
     <td>
