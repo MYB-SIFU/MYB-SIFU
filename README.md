@@ -48,7 +48,8 @@
 ┣  ☠   NAME       :  ー SĪFĀT あ
 ┣  ⚡  STATUS      :  Full Stack Developer     
 ┣  🧬  🐤🎀        :  Anime • Code • Gaming    
-┣  📍  NODE        :  Bangladesh / Khulna     
+┣  📍  NODE        :  Bangladesh / Khulna
+┣  🐣  FB ID       :  @MAYBEXENOS
 ┣  🌐  GLOBAL APIS :  maybexenos.vercel.app
 ╚━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╝           
 ```
