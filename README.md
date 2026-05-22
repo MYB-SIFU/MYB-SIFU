@@ -125,9 +125,8 @@
 &nbsp;
 <img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=EWR-SIFU&count_private=true&theme=transparent&stroke=00f2ff&fire=7000ff&ring=00f2ff&currStreakLabel=00f2ff&border=00f2ff&border_radius=15&sideLabels=ffffff&dates=888888" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewr-sifu&layout=donut&theme=transparent&title_color=00f2ff&text_color=ffffff&border_color=00f2ff&border_radius=15&langs_count=8" />
+<br>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ewr-sifu&layout=donut&theme=transparent&title_color=00f2ff&text_color=ffffff&border_color=00f2ff&border_radius=15&langs_count=8&count_private=true" />
 
 <br>
 
