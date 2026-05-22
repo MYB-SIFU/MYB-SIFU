@@ -178,7 +178,7 @@
 
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/EWR-SIFU/count.svg)
+<img src="https://count.getloli.com/get/@:Ewr-sifu?theme=gelbooru" alt="MR-SIFU" />
 
 <br>
 
