@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Glitch Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=800&color=00F2FF&center=true&vCenter=true&repeat=true&width=900&height=130&lines=%E2%96%88+XENOS+%2F%2F+SIFAT+%E2%96%88;%5B+WELCOME+TO+MY+PROFILE+%5D;%3C+EWR-SIFU+%3E" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=800&color=00F2FF&center=true&vCenter=true&repeat=true&width=900&height=130&lines=%E2%96%88+XENOS+%2F%2F+SIFAT+%E2%96%88;%5B+WELCOME+TO+MY+PROFILE+%5D;%3C+MYB-SIFU+%3E" alt="Header" />
 
 <br>
 
@@ -65,22 +65,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00f2ff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00f2ff)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00f2ff)
-![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00f2ff)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=00f2ff)
-
-### ⬡ Frameworks & Tools
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=7000ff)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=7000ff)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=7000ff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=7000ff)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=7000ff)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=7000ff)
-
+![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html&logoColor=00f2ff)
+![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=CSS&logoColor=00f2ff)
 <br>
-
-
-<img src="https://skillicons.dev/icons?i=js,ts,py,go,rust,nodejs,react,html,css,git,linux,vscode&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,html,css&theme=dark&perline=6" />
 
 </div>
 
@@ -122,16 +110,16 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=EWR-SIFU&count_private=true&show_icons=true&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=7000ff&border_color=00f2ff&border_radius=15&hide_border=false&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=MYB-SIFU&count_private=true&show_icons=true&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=7000ff&border_color=00f2ff&border_radius=15&hide_border=false&include_all_commits=true&rank_icon=github" />
 &nbsp;
-<img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=EWR-SIFU&count_private=true&theme=transparent&stroke=00f2ff&fire=7000ff&ring=00f2ff&currStreakLabel=00f2ff&border=00f2ff&border_radius=15&sideLabels=ffffff&dates=888888" />
+<img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MYB-SIFU&count_private=true&theme=transparent&stroke=00f2ff&fire=7000ff&ring=00f2ff&currStreakLabel=00f2ff&border=00f2ff&border_radius=15&sideLabels=ffffff&dates=888888" />
 
 <br>
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ewr-sifu&layout=donut&theme=transparent&title_color=00f2ff&text_color=ffffff&border_color=00f2ff&border_radius=15&langs_count=8&count_private=true" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MYB-sifu&layout=donut&theme=transparent&title_color=00f2ff&text_color=ffffff&border_color=00f2ff&border_radius=15&langs_count=8&count_private=true" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EWR-SIFU&theme=react-dark&bg_color=000000&color=00f2ff&line=7000ff&point=ffffff&area=true&area_color=00f2ff&border_color=00f2ff&hide_border=false&radius=15" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MYB-SIFU&theme=react-dark&bg_color=000000&color=00f2ff&line=7000ff&point=ffffff&area=true&area_color=00f2ff&border_color=00f2ff&hide_border=false&radius=15" width="95%" />
 
 </div>
 
@@ -141,7 +129,7 @@
 
 ## 「 SPOTIFY 」
 
-<a href="https://accesscardzbd.com/EWR-SIFU">
+<a href="https://accesscardzbd.com/MYB-SIFU">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=00f2ff&bar_color_cover=true" width="75%" style="border-radius: 15px; border: 1px solid #00f2ff;"/>
 </a>
 
@@ -167,7 +155,7 @@
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=EWR-SIFU&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=MYB-SIFU&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
 
 </div>
 
