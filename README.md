@@ -65,8 +65,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00f2ff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00f2ff)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00f2ff)
-![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html&logoColor=00f2ff)
-![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=CSS&logoColor=00f2ff)
+![Html](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html&logoColor=00f2ff)
+![Css](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=CSS&logoColor=00f2ff)
+![Node.js](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=00f2ff)
+
 <br>
 <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,html,css&theme=dark&perline=6" />
 
