@@ -114,16 +114,16 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=MYB-SIFU&count_private=true&show_icons=true&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=7000ff&border_color=00f2ff&border_radius=15&hide_border=false&include_all_commits=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=MYB-SIFAT&count_private=true&show_icons=true&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=7000ff&border_color=00f2ff&border_radius=15&hide_border=false&include_all_commits=true&rank_icon=github" />
 &nbsp;
-<img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MYB-SIFU&count_private=true&theme=transparent&stroke=00f2ff&fire=7000ff&ring=00f2ff&currStreakLabel=00f2ff&border=00f2ff&border_radius=15&sideLabels=ffffff&dates=888888" />
+<img height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MYB-SIFAT&count_private=true&theme=transparent&stroke=00f2ff&fire=7000ff&ring=00f2ff&currStreakLabel=00f2ff&border=00f2ff&border_radius=15&sideLabels=ffffff&dates=888888" />
 
 <br>
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MYB-sifu&layout=donut&theme=transparent&title_color=00f2ff&text_color=ffffff&border_color=00f2ff&border_radius=15&langs_count=8&count_private=true" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MYB-SIFAT&layout=donut&theme=transparent&title_color=00f2ff&text_color=ffffff&border_color=00f2ff&border_radius=15&langs_count=8&count_private=true" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MYB-SIFU&theme=react-dark&bg_color=000000&color=00f2ff&line=7000ff&point=ffffff&area=true&area_color=00f2ff&border_color=00f2ff&hide_border=false&radius=15" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MYB-SIFAT&theme=react-dark&bg_color=000000&color=00f2ff&line=7000ff&point=ffffff&area=true&area_color=00f2ff&border_color=00f2ff&hide_border=false&radius=15" width="95%" />
 
 </div>
 
@@ -133,7 +133,7 @@
 
 ## 「 SPOTIFY 」
 
-<a href="https://accesscardzbd.com/MYB-SIFU">
+<a href="https://accesscardzbd.com/MYB-SIFAT">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&bar_color=00f2ff&bar_color_cover=true" width="75%" style="border-radius: 15px; border: 1px solid #00f2ff;"/>
 </a>
 
@@ -176,7 +176,7 @@
 <br>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,30&height=120&section=footer&text=©%20乛%20S1FU%20ゎ&fontColor=00f2ff&fontSize=28&fontAlignY=65&animation=twinkling&fontFamily=Orbitron" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,30&height=120&section=footer&text=©%20乛%20S1F4T%20ゎ&fontColor=00f2ff&fontSize=28&fontAlignY=65&animation=twinkling&fontFamily=Orbitron" width="100%"/>
 
 ### `[ 乛 🅂🄸🄵🄰🅃 ゎ ]`
 
