@@ -3,7 +3,7 @@
 <a href="https://pokemondb.net/pokedex/pikachu"><img src="https://img.pokemondb.net/sprites/ruby-sapphire/shiny/pikachu.png" alt="Pikachu"></a>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=800&color=00F2FF&center=true&vCenter=true&repeat=true&width=900&height=130&lines=%E2%96%88+XENOS+%2F%2F+SIFAT+%E2%96%88;%5B+WELCOME+TO+MY+PROFILE+%5D;%3C+MYB-SIFU+%3E" alt="Header" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=50&duration=3000&pause=800&color=00F2FF&center=true&vCenter=true&repeat=true&width=900&height=130&lines=%E2%96%88+hqhqhqhqhqhq+%E2%96%88;%5B+WELCOME+TO+MY+PROFILE+%5D;%3C+MYB-SIFAT+%3E" alt="Header" />
 
 <br>
 
